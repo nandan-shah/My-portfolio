@@ -43,12 +43,16 @@ font-size: 1.5rem;
 }
 @media screen and (max-width:1000px) {
   .sa {
-    margin: 0 5rem;
+    margin: 0 2rem;
+    font-size: 2rem;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: 500;
 }
 }
 
 .heading{
   font-size: 2rem;
+  font: italic small-caps bold 16px/2 cursive;
 }
 
 .e-cell{
