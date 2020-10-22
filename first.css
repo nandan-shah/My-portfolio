@@ -18,8 +18,13 @@ margin: 0;
  .nvt{
    font-size: 1rem;
    font-weight: bolder;
-
- }
+}
+@media screen and (max-width:1000px) {
+.nvt{
+   font-size: 2rem;
+   font-weight: 400;
+}
+}
 .name{
   padding-top: 4rem;
   margin: 0;
@@ -31,6 +36,16 @@ margin: 0;
   display: inline-block;
   text-align: center;
 }
+@media screen and (max-width:1000px) {
+  .name{
+    margin-top:5rem;
+    font-size: 6rem;
+  font-weight: 700;
+  } 
+}
+
+
+
 .nm{
   position: relative;
 
@@ -53,6 +68,13 @@ font-size: 1.5rem;
 .heading{
   font-size: 2rem;
   font: italic small-caps bold 16px/2 cursive;
+}
+@media screen and (max-width:1000px) {
+  .heading{
+  font-size: 4rem;
+  font: italic small-caps bold 16px/2 cursive;
+    font-weight:600;
+}
 }
 
 .e-cell{
