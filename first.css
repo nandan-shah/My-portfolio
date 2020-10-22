@@ -41,9 +41,9 @@ margin: 0  15rem 1.5rem 15rem;
 font: italic small-caps bold 16px/2 cursive;
 font-size: 1.5rem;
 }
-@media screen and (max-width:900px) {
+@media screen and (max-width:1000px) {
   .sa {
-    margin: 0 ;
+    margin: 0 5rem;
 }
 }
 
