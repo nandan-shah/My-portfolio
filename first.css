@@ -73,7 +73,7 @@ font-size: 1.5rem;
 }
 
 .heading{
-  font-size: 4rem;
+  font-size: 3rem;
   font: italic small-caps bold  cursive;
 }
 @media screen and (max-width:1000px) {
