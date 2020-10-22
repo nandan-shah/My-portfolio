@@ -1,0 +1,58 @@
+body{
+margin: 0;
+}
+.brand{
+  height: 5rem;
+  width: 5rem;
+  margin: 1rem  0 0 60%;
+}
+
+
+.nb{
+  margin-right: 10%;
+  margin-top: 1rem;
+  text-align: center;
+
+
+}
+ .nvt{
+   font-size: 1rem;
+   font-weight: bolder;
+
+ }
+.name{
+  padding-top: 4rem;
+  margin: 0;
+  padding-top: 4rem;
+  font-family: 'Parisienne', cursive;;
+  font-size: 5rem;
+  font-weight: 500;
+
+  display: inline-block;
+  text-align: center;
+}
+.nm{
+  position: relative;
+
+
+}
+.sa{
+margin: 0  15rem 1.5rem 15rem;
+font: italic small-caps bold 16px/2 cursive;
+font-size: 1.5rem;
+}
+@media screen and (max-width:900px) {
+  .sa {
+    margin: 0 ;
+}
+}
+
+.heading{
+  font-size: 2rem;
+}
+
+.e-cell{
+
+    width: 100%;
+    height: 400px;
+}
